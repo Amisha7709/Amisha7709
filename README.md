@@ -1,3 +1,6 @@
+# 💫 Hi, I'm Amisha 👋  
+MERN Developer | Frontend Developer ReactJS | Real-Time Systems
+
 # 💫 About Me:
 I am a Frontend Developer with 3+ years of experience working on React,Next, JavaScript, TypeScript, Next.js, and Vite, specializing in building scalable, responsive, and user-friendly web applications. <br>I have hands-on experience integrating RESTful APIs, managing complex state using Redux Toolkit, and developing reusable UI components with Tailwind CSS, HTML, CSS and Material UI. <br>Currently, I work on real-world applications such as Hospital Management, Construction Management, and trading platforms, focusing on performance optimization, clean code practices, and seamless user experience. <br>I enjoy collaborating on frontend and full-stack projects and continuously improving my skills in advanced React patterns and modern web development.
 
