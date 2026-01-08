@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Amisha 👋  
+# 💫 Hi, I'm Amisha 
 MERN Developer | Frontend Developer ReactJS | Real-Time Systems
 
 ---
